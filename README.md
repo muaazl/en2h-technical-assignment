@@ -76,6 +76,8 @@ The API is documented using Swagger. To view and interact with the endpoints:
 
 This interactive UI allows you to explore detailed request schemas, query parameters, authentication options, and execute test requests directly against your local server.
 
+<img width="2910" height="4152" alt="localhost_3000_api(Macbook Air)" src="https://github.com/user-attachments/assets/fdd01e60-582f-434e-b71d-1566a8b36b52" />
+
 ---
 
 ## Assumptions Made
