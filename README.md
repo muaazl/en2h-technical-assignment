@@ -42,9 +42,9 @@ POSTGRES_PASSWORD=postgrespassword
 POSTGRES_DB=booking_platform
 
 # JWT Configuration
-JWT_SECRET="super-secret-access-key-should-be-changed"
+JWT_SECRET="super-access"
 JWT_EXPIRATION="15m"
-JWT_REFRESH_SECRET="super-secret-refresh-key-should-be-changed"
+JWT_REFRESH_SECRET="super-refresh"
 JWT_REFRESH_EXPIRATION="7d"
 ```
 
